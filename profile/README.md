@@ -5,7 +5,7 @@
 # 🛠️ Reborn CS2 Pluginleri...................................[**Click Here For English**](./README.en.md)
 
 ### 🎯 Hakkımızda
-lahmacun
+Sunucumuzun Kullandığı Pluginleri Açık Olarak Herkese Verme Kararı Aldık Zamanlada Yeni Pluginlerimizi Eklemeyi Düşünüyoruz
 
 <div align="center">
 
