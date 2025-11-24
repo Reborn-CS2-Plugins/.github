@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="140" height="140" alt="Reborn CS2 Plugins Logo" src="https://github.com/user-attachments/assets/884b3ff1-fbf1-4bcd-8c18-33443b24fdc6" style="border-radius:7.5px;" />
+  <img width="110" height="110" alt="Reborn CS2 Plugins Logo" src="https://github.com/user-attachments/assets/884b3ff1-fbf1-4bcd-8c18-33443b24fdc6" style="border-radius:7.5px;" />
 </div>
 
 # 🛠️ Reborn CS2 Plugins ( English )
