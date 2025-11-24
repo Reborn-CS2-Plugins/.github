@@ -2,7 +2,7 @@
   <img width="125" height="125" alt="Reborn CS2 Plugins Logo" src="https://github.com/user-attachments/assets/884b3ff1-fbf1-4bcd-8c18-33443b24fdc6" style="border-radius:7.5px;" />
 </div>
 
-# 🛠️ Reborn CS2 Pluginleri[**Click Here For English**](./README.en.md)
+# 🛠️ Reborn CS2 Pluginleri.........................................[**Click Here For English**](./README.en.md)
 
 ### 🎯 Hakkımızda
 lahmacun
