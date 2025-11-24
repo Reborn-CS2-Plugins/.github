@@ -5,7 +5,7 @@
 # 🛠️ Reborn CS2 Plugins.........................................[**Türkçe için Buraya Tıkla**](./README.md)
 
 ### 🎯 About Us
-lahmacun
+We have decided to openly share the plugins our server uses with everyone. We are also considering adding new plugins over time.
 
 <div align="center">
 
